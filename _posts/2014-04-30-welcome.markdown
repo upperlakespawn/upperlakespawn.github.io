@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Welcome to my site!"
+title:  "My first blog post"
 date:   2014-04-30
 categories: personal
 ---
 
- well. i am home schooled, and practice programming with my uncle, and our buddy. home school is sucky and depressing because i am home alone all the time and have nobody to talk to or hangout with, programming is fun though and i dont know why i just enjoy it and i find it easy.
+I am a home school student and peticularly enjoy learning web programming with my uncle and our buddy [Enrique](http://kikluz.github.io). 
 
-# GIRLS
- i also have no girlfriend wich makes life even more lonely but thats for another time.
+I am going to use this blog to track my home study, programming achivements, and my progress twords my digital web agency.
 
+## Learning Resources
 
-#things i have done for programming.
- ![CodeAcademy](/images/codeacademy.jpg)
+![CodeAcademy](/images/codeacademy.jpg)
 
- [CodeAcademy](http://www.codecademy.com/) free online code school.
+[CodeAcademy](http://www.codecademy.com/) free online code school.
+<hr />
+![chris pine learn to programm](/images/ltp.jpg)
 
- ![chris pine learn to programm](/images/ltp.jpg)
+[Chris pine learn to programm](https://pine.fm/LearnToProgram/) book you can download free on computer or e-reader.
+<hr />
+![TryRuby](/images/tryrubylogo.png)
 
- [chris pine learn to programm](https://pine.fm/LearnToProgram/) book you can download free on computer or e-reader.
+[TryRuby](http://tryruby.org/levels/1/challenges/0) free ruby tutorial.
 
- ![TryRuby](/images/tryrubylogo.png)
-
- [TryRuby](http://tryruby.org/levels/1/challenges/0)free ruby tutorial.
