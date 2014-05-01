@@ -2,37 +2,17 @@
 layout: default
 title: UpperLake Spawn
 ---
-
 <img src="images/john.jpg" id="profile">
 
 <h1>Welcome</h1>
-
-
 <p>
-	Hi there mate, this is my first actual site, and its still a work in progress but atleast its somthing ey?
-	if you have happend to find this site good job and your a pimp.
+	Hi there mate. This is my first actual site and it's still a work in progress but atleast its somthing ey? Born and raised in upperlake CA, I have a passion for computers and web programming. I love my dogs, family, friends. 
 </p>
 
+<h1>Blog Posts</h1>
 
-<p>
-	I was born and raised in upperlake CA, I was born November-11-1997 i now do computer programming with my uncle and our friend enrike. I love my dogs, family, friends, and girls. if we ever meet we will probly get along, unless you are mean to women, or my dogs, family, or friends. i have close to no religious belifes and dont like it when people try to push there religion off onto me, so personaly i am pretty much a man of science.
-</p>
-
-<h2>talents</h2>
-<ol>
-	<li>
-		Marksmen(can hit nearly anything with rifle, handgun, assault weapons, ect.)
-	</li>
-	<li>
-		Archery(extensively trained)
-	</li>
-	<li>
-		Swordsman(extensively trained)
-	</li>
-	<li>
-		computer programmer
-	</li>
-	<li>
-		Parkour (I am very athletic)
-	</li>
-</ol>
+{% for post in site.posts %}
+  <p class="post">
+  	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  </p>
+{% endfor %}

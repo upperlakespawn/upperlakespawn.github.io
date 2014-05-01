@@ -39,7 +39,7 @@ p{
 }
 
 #main{
-  padding-top:50px;
+  padding-top:10px;
 }
 
 #profile {
@@ -65,13 +65,14 @@ p{
 
 }
 
-a {
+nav a {
   text-decoration: none;
   font-size: 20px;
   color:grey;
   float:left;
   padding-top: 10px;
-  padding-left: 20px;
+  padding-left: 40px;
+  text-transform: uppercase;
 }
 
 li{

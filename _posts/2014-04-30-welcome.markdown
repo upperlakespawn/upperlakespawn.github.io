@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to my site!"
+date:   2014-04-30
+categories: personal
+---
+
+# well. i am home schooled, and practice programming with my uncle, and our buddy. home school is sucky and depressing because i am home alone all the time and have nobody to talk to or hangout with, programming is fun though and i dont know why i just enjoy it and i find it easy. i also have no girlfriend wich makes life even more lonely but thats for another time.
