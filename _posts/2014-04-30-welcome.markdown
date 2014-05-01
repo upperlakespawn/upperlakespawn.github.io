@@ -5,4 +5,21 @@ date:   2014-04-30
 categories: personal
 ---
 
-# well. i am home schooled, and practice programming with my uncle, and our buddy. home school is sucky and depressing because i am home alone all the time and have nobody to talk to or hangout with, programming is fun though and i dont know why i just enjoy it and i find it easy. i also have no girlfriend wich makes life even more lonely but thats for another time.
+ well. i am home schooled, and practice programming with my uncle, and our buddy. home school is sucky and depressing because i am home alone all the time and have nobody to talk to or hangout with, programming is fun though and i dont know why i just enjoy it and i find it easy.
+
+# GIRLS
+ i also have no girlfriend wich makes life even more lonely but thats for another time.
+
+
+#things i have done for programming.
+ ![CodeAcademy](/images/codeacademy.jpg)
+
+ [CodeAcademy](http://www.codecademy.com/) free online code school.
+
+ ![chris pine learn to programm](/images/ltp.jpg)
+
+ [chris pine learn to programm](https://pine.fm/LearnToProgram/) book you can download free on computer or e-reader.
+
+ ![TryRuby](/images/tryrubylogo.png)
+
+ [TryRuby](http://tryruby.org/levels/1/challenges/0)free ruby tutorial.
