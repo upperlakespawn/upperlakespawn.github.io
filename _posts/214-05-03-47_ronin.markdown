@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "47 Ronin"
+date:   2014-05-03
+categories: movies
+---
+
