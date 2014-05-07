@@ -30,7 +30,7 @@ I usually put all this code into a single class called container so i can easily
 
 # Full bleed background-color
 
-The issue with the above code is that it will auto margin your background colors to deal with this apply your background color to the header then nest a container class in your header.
+The issue with the above code is that it will auto margin your background colors. To deal with this apply your background color to the header then nest a container class in your header.
 
     	<div id="header">
             <div class="container">
