@@ -5,9 +5,6 @@ date:   2014-05-06
 categories: programming
 ---
 
-describe auto margin and max width and how it deals with diff sized screens.
-
-then how to use a nested container class for full bleed background colors
 
 # Getting a Full bleed header
 

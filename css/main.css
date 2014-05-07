@@ -5,9 +5,7 @@ body{
   padding:0px;
   margin:0;
   background-color:#eee;
-  max-width: 1000px;
-  margin-left:auto;
-  margin-right:auto;
+
 }
 
 h1{
@@ -31,7 +29,6 @@ p{
 #header{
   background-color:black;
   border-bottom:1px solid black;
-  max-width: 1000px;
 }
 
 #header h1 {
