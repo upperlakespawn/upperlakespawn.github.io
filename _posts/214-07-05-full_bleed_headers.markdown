@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Full bleed headers"
+title:  "Fit your website to any device"
 date:   2014-05-06
 categories: programming
 ---
 
+
+I am going to show you some code that will optimize your web pages to any size computer or mobile device you are using.
 
 # Auto-margin & max-width
 
@@ -12,20 +14,28 @@ First thing you want to do is put a auto margin like this
 
     margin-left:auto; margin-right:auto; 
 
-those will keep the page centered no mater what. After doing the auto margins you want to put 
+Those will keep the page centered no mater what. Then constrain the width of the page and support collapsing the screen to smaller sizes.
 
         max-width:1000px;
+ 
 
-which will also help keep the page center and will resize your page for what ever size computer or mobile device you are using.
+I usually put all this code into a single class called container so i can easily apply it where ever i want it
 
-# Full bleed header
+    .container {
+      max-width:1000px;
+      margin-left:auto;
+      margin-right:auto;
+      padding:15px;
+    }
 
-if you do not have a
+# Full bleed background-color
 
-    div class="container" 
+The issue with the above code is that it will auto margin your background colors to deal with this apply your background color to the header then nest a container class in your header.
 
- nested in your header your header color will not go full bleed(from edge to edge) so what you want to do is
+    	<div id="header">
+            <div class="container">
+                my site
+            </div>
+        </div> 
 
-     div id="header"  div class="container"
-
-  then close the div after everything that is going to be part of the header.
+With this approach your header will look alot like mine.
