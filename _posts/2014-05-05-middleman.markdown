@@ -30,10 +30,29 @@ You can right click and open the link right in your terminal. It should look lik
 
 # Middleman tricks
 
-link_to [will allow you to link two different pages together and add a link.]
+create a nice hyper link with
+   
+    <%= link_to 'My Site', 'http://mysite.com' %>
 
-image_tag [will allow you to take the location of an image and post the image to your page.]
 
-lorem.sentences 5 [will put five sentences of lorem on your page.]
 
-lorem.image('100x100') [will put a place holder image of what ever dimesions you put in. in this case 100 by 100]
+goes and finds image in source/images then posts to page
+   
+    <%= image_tag 'logo.png' %>
+
+
+
+puts five sentences of lorem on your page.
+
+    lorem.sentences 5
+
+
+
+puts a place holder image of what ever dimesions you put in.
+ 
+    <%= image_tag lorem.image('100x100') %>
+
+To the action loop in this case six times
+    
+    <% 6.times do %>
+    <% end %>
